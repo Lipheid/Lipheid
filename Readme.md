@@ -1,5 +1,5 @@
 # 💫 About Me:
-좋아하는 것, 새로운 것에 대해 탐구하고 끊임없이 학습하는 개발자<br>그 외에 다양한 취미를 탐구 하는 것을 좋아합니다.<br> 현재 홍익대학교 소프트웨어융합학과 석사과정 진행중<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+좋아하는 것, 새로운 것에 대해 탐구하고 끊임없이 학습하는 개발자<br>그 외에 다양한 취미를 탐구 하는 것을 좋아합니다.<br> 현재 홍익대학교 소프트웨어융합학과 석사과정 진행중<br>
 
 
 
