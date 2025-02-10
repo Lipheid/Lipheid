@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=wave&height=300&color=462679&text=Lipheid%20Github&fontColor=ffffff
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=462679&text=Lipheid%20Github&fontColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=A827F7&width=435&lines=+Fun-Seeking+Developer)](https://git.io/typing-svg)
 
