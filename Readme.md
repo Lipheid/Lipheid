@@ -18,9 +18,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lipheid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lipheid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lipheid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=Lipheid&theme=bright&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lipheid&theme=bright&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lipheid&theme=bright&hide_border=false)<br/>
+
 
 
 
